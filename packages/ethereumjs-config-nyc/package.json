@@ -1,9 +1,9 @@
 {
-  "name": "@ethereumjs/config-nyc",
+  "name": "@puffscoinjs/config-nyc",
   "version": "1.1.1",
   "main": "nyc.json",
   "license": "MIT",
-  "repository": "git@github.com:ethereumjs/ethereumjs-config.git",
+  "repository": "git@github.com:puffscoin/puffscoinjs-config.git",
   "author": "Krzysztof Kaczor <chris@kaczor.io>",
   "files": [
     "nyc.json",
