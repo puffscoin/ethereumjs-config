@@ -1,0 +1,21 @@
+{
+  "name": "@puffscionjs/config-tslint",
+  "version": "1.1.1",
+  "main": "tslint.json",
+  "license": "MIT",
+  "repository": "git@github.com:puffscoin/puffscionjs-config.git",
+  "author": "Krzysztof Kaczor <chris@kaczor.io>",
+  "files": [
+    "tslint.json",
+    "cli"
+  ],
+  "bin": {
+    "puffscionjs-config-tslint": "./cli/tslint.sh",
+    "puffscionjs-config-tslint-fix": "./cli/tslint-fix.sh",
+    "puffscionjs-config-lint": "./cli/lint.sh",
+    "puffscionjs-config-lint-fix": "./cli/lint-fix.sh"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
