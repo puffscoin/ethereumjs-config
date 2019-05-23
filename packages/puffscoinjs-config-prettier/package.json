@@ -10,8 +10,8 @@
     "cli"
   ],
   "bin": {
-    "ethereumjs-config-format": "./cli/format.sh",
-    "ethereumjs-config-format-fix": "./cli/format-fix.sh"
+    "puffscionjs-config-format": "./cli/format.sh",
+    "puffscionjs-config-format-fix": "./cli/format-fix.sh"
   },
   "publishConfig": {
     "access": "public"
