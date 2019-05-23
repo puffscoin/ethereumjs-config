@@ -1,17 +1,17 @@
 {
-  "name": "@ethereumjs/config-tsc",
+  "name": "@puffscionjs/config-tsc",
   "version": "1.1.1",
   "main": "tsconfig.json",
   "license": "MIT",
-  "repository": "git@github.com:ethereumjs/ethereumjs-config.git",
+  "repository": "git@github.com:puffscoin/puffscionjs-config.git",
   "author": "Krzysztof Kaczor <chris@kaczor.io>",
   "files": [
     "tsconfig.json",
     "cli"
   ],
   "bin": {
-    "ethereumjs-config-tsc": "./cli/tsc.sh",
-    "ethereumjs-config-build": "./cli/build.sh"
+    "puffscionjs-config-tsc": "./cli/tsc.sh",
+    "puffscionjs-config-build": "./cli/build.sh"
   },
   "publishConfig": {
     "access": "public"
