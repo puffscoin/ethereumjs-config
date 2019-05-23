@@ -1,6 +1,6 @@
-# @ethereumjs/config-prettier
+# @puffscoinjs/config-prettier
 
-Common formatting configuration for `EthereumJS` libraries.
+Common formatting configuration for `PuffscoinJS` libraries.
 
 Tool: [Prettier](https://prettier.io/)
 
@@ -8,15 +8,15 @@ Supported Version: `^1.15.3`
 
 Exposed CLI commands:
 
-- `ethereumjs-config-format`
-- `ethereumjs-config-format-fix`
+- `puffscoinjs-config-format`
+- `puffscoinjs-config-format-fix`
 
 ## Usage
 
 Add `prettier.config.js`:
 
 ```javascript
-module.exports = require('@ethereumjs/config-prettier')
+module.exports = require('@puffscoinjs/config-prettier')
 ```
 
 Add `.prettierignore`:
@@ -33,8 +33,8 @@ Use CLI commands above in `package.json`:
 
 ```json
   "scripts": {
-    "format": "ethereumjs-config-format",
-    "format-fix": "ethereumjs-config-format-fix"
+    "format": "puffscoinjs-config-format",
+    "format-fix": "puffscoinjs-config-format-fix"
   }
 ```
 
