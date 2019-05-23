@@ -10,8 +10,8 @@
     "cli"
   ],
   "bin": {
-    "ethereumjs-config-coverage": "./cli/coverage.sh",
-    "ethereumjs-config-coveralls": "./cli/coveralls.sh"
+    "puffscionjs-config-coverage": "./cli/coverage.sh",
+    "puffscionjs-config-coveralls": "./cli/coveralls.sh"
   },
   "publishConfig": {
     "access": "public"
