@@ -1,10 +1,10 @@
-# ethereumjs-config
-Common configuration for EthereumJS libraries
+# puffscoinjs-config
+Common configuration for PuffscoinJS libraries
 
 ## Usage
 
-For guidance on how to to use configuration within an ``EthereumJS`` repo see the different
-config files (e.g. ``tsconfig.json``) on the [RLP](https://github.com/ethereumjs/rlp) library
+For guidance on how to to use configuration within an ``PuffscoinJS`` repo see the different
+config files (e.g. ``tsconfig.json``) on the [RLP](https://github.com/puffscoin/rlp) library
 for reference.
 
 ## Development
